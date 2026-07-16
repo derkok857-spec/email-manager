@@ -40,3 +40,4 @@ Accuracy: 18 / 25 = 72%
 | 19f6bce08af5798b | Agents, robots, and us: How AI reshapes work and skills in Latin America | publishing@email.mckinsey.com | Download the full report | fyi | TODO | |
 | 19f6b9c49098ccfd | 🤑 One IPO, Money For Everyone | community@amplifyme.com | SpaceX did not only benefit the bankers, US rate hike bets get unwound and US consumers remain resilient. Let's dive in! | fyi | TODO | |
 | 19f6b9b3a2328da6 | Build HR expertise with HRCI | Coursera@m.learn.coursera.org | Prepare for the PHR® exam and strengthen your HR skills. | noise | TODO | |
+| 19f6bfc173048894 | A $243M verdict. An A-list legal lineup. | thedailydocket@thomsonreuters.com | + The latest lawyer moves. The Afternoon Docket The Afternoon Docket A weekly newsletter by Reuters and Westlaw By Caitlin Tremblay What's going on this week? Boutique firms are poaching lawyers | fyi | TODO | |
