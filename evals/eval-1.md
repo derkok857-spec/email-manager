@@ -1,0 +1,26 @@
+# Eval #1: Email Triage Classification
+
+Accuracy: (pending labels)
+
+| ThreadId | Subject | Sender | IncomingEmail | AICategorization | HumanCategorization | Accuracy |
+| --- | --- | --- | --- | --- | --- | --- |
+| 19f992b06cf548ac | كيف نستعد لزمن تتحكم فيه التوترات الجغرافية السياسية. | publishing@email.mckinsey.com | بالإضافة إلى مواضيع أخرى، تدور حول سرّ نجاح الشركات التي جعلت الذكاء الاصطناعي جزءًا من هويتها منذ التأسيس. | fyi | TODO | |
+| 19f9929e2394b035 | I will build financial model live on Tuesday (+powerpoint presentation in minutes) | hello@nicolasboucher.online | Hi, So here is exactly what happens on Tuesday. In about 10 minutes, I build a real financial model with AI, start to finish, while you watch every step. Then I turn that same work into a board-re | noise | TODO | |
+| 19f98f00998243f2 | India protesters topple major minister | dailybriefing@thomsonreuters.com | And the AI agent that went rogue. Weekend Briefing from Reuters Daily Briefing, by Robert MacMillan, Reuters.com Weekend Editor. Welcome to the Weekend Briefing and thanks as ever for reading | fyi | TODO | |
+| 19f98df96c114145 | No tienes ningún evento programado para hoy. | calendar-notification@google.com | Derek Araujo, no tienes ningún evento programado para hoy, sáb 25 jul 2026. Consulta tu calendario en https://calendar.google.com/calendar/. | noise | TODO | |
+| 19f97f92b8398fd5 | The 5-Hour Rule for Finance Professionals: Why the Best Investors Never Stop Learning. | newsletters-noreply@linkedin.com | Markets have a way of humbling even the smartest people in the room. Every... | fyi | TODO | |
+| 19f97937ad335a8c | New idea by Mihai_Iacob — check it out | noreply@tradingview.com | TradingView: Mihai_Iacob that you follow published a new idea, The Hidden Mathematics of Prop Firm Challenges, XAUUSD 1W. Before we begin, let me make one thing clear. I actually like prop firms | fyi | TODO | |
+| 19f9781f3aeb933c | Investment Banking Intern: Une Asesores Financieros and CAPIA hired roles near you | messages-noreply@linkedin.com | Derek, Une Asesores Financieros is a top company hiring for Investment Banking Intern roles | fyi | TODO | |
+| 19f960dd92cde71a | Not to be missed. The Summer Sale: $0.25 a week. | nytimes@e.newyorktimes.com | Discover the pleasures of a Spelling Bee solved, a fresh recipe easily prepared and a product review that steers you in the right direction with our best offer for readers worldwide. | noise | TODO | |
+| 19f9600c02d7f599 | You Could Be Next | noreply@polymarket.com | You're leaving winnings on the table. | noise | TODO | |
+| 19f95d79570983eb | How consumers are reshaping the future of mobility | publishing@email.mckinsey.com | Build lasting competitive advantage | fyi | TODO | |
+| 19f9586f2e1c4bb3 | 🏡✨ Renueva tus espacios con 30% dscto. en decoración | novedades@pe.falabella.com | Solo en Falabella. Para recibir nuestros emails agrega novedades@pe.falabella.com a tus contactos, si no visualizas el mail haz click aquí. falabella Bestsellers New In Oportunidades Únicas Sale | noise | TODO | |
+| 19f954e3e79c2bfa | The human advantage in an AI economy | publishing@email.mckinsey.com | Why brain capital is a competitive advantage | fyi | TODO | |
+| 19f952827e45e96a | ✅ Derek, completa la configuración de tu Apple iPad con Google | no-reply@google.com | Derek, ya casi terminas de configurar Google en tu Apple iPad. Tómate un minuto para configurar las apps y los parámetros de configuración de Google en tu nuevo dispositivo. | noise | TODO | |
+| 19f952737ac72b93 | Alerta de seguridad | no-reply@accounts.google.com | Detectamos un nuevo acceso a tu Cuenta de Google en el dispositivo Apple iPad. Si fuiste tú, no tienes que hacer nada. De lo contrario, te ayudaremos a proteger tu cuenta. | noise | TODO | |
+| 19f951350b9603ef | Commerzbank chairman says bank is ready for takeover talks with UniCredit | newsletters@email.reuters.com | Commerzbank Chairman Jens Weidmann on Friday invited UniCredit to open talks on the terms of a merger, as the German lender abandoned its remaining resistance to the unwanted Italian takeover and | fyi | TODO | |
+| 19f95129ce878454 | BACKUS y Grupo Scotiabank están buscando personal | no_reply@bumeran.com | Nuevos empleos de tus empresas favoritas. ¡Aprovecha y postúlate antes que nadie! BACKUS OPERADOR DE ENVASADO - ATE TEMPORAL, Ate, Lima, Full-time, Presencial, Apto discapacidad | fyi | TODO | |
+| 19f94eaebd774a3b | Patrick Finn on how tension can lead to healthcare's reinvention | publishing@email.mckinsey.com | Prepare for healthcare's next era | fyi | TODO | |
+| 19f94dbbea05da80 | AI Builder Level 2, Session 2 - Starts in 1 hour | builders@joinleland.com | Hi Derek Omar, Your session starts in 1 hour at 1:00 PM ET. You can find the session link in your calendar or on your Leland dashboard. | noise | TODO | |
+| 19f947a87067ca22 | You have 2 new updates for NOW | no-reply@p.simplywall.st | Your login is via your Google account. SIMPLY WALL ST: 2 new updates for NOW. View on your dashboard. Watchlist NOW ServiceNow, Last Price $91.94, My Fair Value Select, Second quarter 2026 | fyi | TODO | |
+| 19f947210495bf37 | The 'bridge builder' COO: Delivering results by engaging stakeholders | publishing@email.mckinsey.com | Understand the "why" | fyi | TODO | |
