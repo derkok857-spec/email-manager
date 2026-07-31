@@ -1,0 +1,26 @@
+# Eval #1: Email Triage Classification
+
+Accuracy: (pending labels)
+
+| ThreadId | Subject | Sender | IncomingEmail | AICategorization | HumanCategorization | Accuracy |
+| --- | --- | --- | --- | --- | --- | --- |
+| 19fb80c6c9aaa42a | The cases vanished. The fallout didn't. | thedailydocket@thomsonreuters.com | + The human cost of DOJ dismissals. The Daily Docket The Daily Docket A newsletter by Reuters and Westlaw By Caitlin Tremblay Good morning. The DOJ has aggressively pursued assault-on-officer cases. | noise | TODO | |
+| 19fb7cd5e12b7929 | Agenda diaria de Derek Araujo a partir de las 5.00 a. m. | calendar-notification@google.com | Derek Araujo, esta es tu agenda del: vie 31 jul 2026 12pm – 1:30pm Session 4: AI Builder ... (https://www.joinleland.com/meet/bootcamp/urn:bootcampCohort:(urn:bootcamp: | noise | TODO | |
+| 19fb7cb6c808c5eb | Microsoft Moves Markets | newsletters-noreply@linkedin.com | Market Snapshot Get a Top Job Offer, Guaranteed (or tuition is free) Apply… | fyi | TODO | |
+| 19fb7bac41f6825d | Failure to communicate | morningbid@thomsonreuters.com | Everything the ROI team is excited to read, watch and listen to over the weekend. Morning Bid Weekend Morning Bid Weekend A Reuters Open Interest newsletter | fyi | TODO | |
+| 19fb71a69153cf81 | 88% off: Business Boost Sale for Momentum is ending | g.c@hello.design.com | Time is running out, Derek — make the most of our Business Boost Sale before Saturday, 1 August. Launch your business with 88% off your logo for Momentum. | noise | TODO | |
+| 19fb6c5a174af6a6 | New idea by Mihai_Iacob — check it out | noreply@tradingview.com | TradingView Mihai_Iacob that you follow published a new idea XAUUSD: When No Bias Is the Best Bias XAUUSD, 240 Gold remains trapped inside the same 4000–4100 range | fyi | TODO | |
+| 19fb5ec528ac98b3 | Why CEOs are central to new-venture building | publishing@email.mckinsey.com | Latest insights for the weekend | fyi | TODO | |
+| 19fb5cf6408b388c | Tu pedido de Paikos Chicken - Andrés Zevallos fue entregado | support@rappimail.com | Paikos Chicken - Andrés Zevallos Orden # 2257016638 ¡Derek, aquí están los detalles de tu pedido! Entregado con cambios Av. Andrés Zevallos 1854, Cajamarca 06002, Perú | noise | TODO | |
+| 19fb5c7ebb563c41 | "Level 3 Mock Scores" | noreply@redditmail.com | r/CFA: Level 3 Mock Scores Overall I'm hovering around 70–72%, and despite reviewing every mock, I don't feel like I'm making meaningful progress. My review process is: Go through every | fyi | TODO | |
+| 19fb58d2d6a6a508 | Learn how to build your own APIs [Free 1-hour TypeScript course] | quincy@freecodecamp.org | Here are this week's five freeCodeCamp resources that are worth your time: 1. freeCodeCamp just published a course that will teach you how to build your own super duper reliable APIs using | fyi | TODO | |
+| 19fb5302b2f87343 | How AI will reshape the economics of insurance: A CEO's guide to strategy | publishing@email.mckinsey.com | Lead the transformation | fyi | TODO | |
+| 19fb51e831e8d32e | Investment Banking Intern: BTG Pactual Perú and CAPIA hired roles near you | messages-noreply@linkedin.com | Derek, BTG Pactual Perú is a top company hiring for Investment Banking Intern roles | fyi | TODO | |
+| 19fb4f5b7b032061 | Not to be missed. The Summer Sale: $0.25 a week. | nytimes@e.newyorktimes.com | Discover the pleasures of a Spelling Bee solved, a fresh recipe easily prepared and a product review that steers you in the right direction with our best offer for readers worldwide. | noise | TODO | |
+| 19fb4c2cadf808a4 | Powering supply chain with agentic AI | publishing@email.mckinsey.com | Turn insights into action | fyi | TODO | |
+| 19fb481f407e5e94 | An Affordability Crisis | newsletters-noreply@linkedin.com | Dive into the race to patch software vulnerabilities before zero-day… | fyi | TODO | |
+| 19fb4748070d93a9 | The lawyers training AI | thedailydocket@thomsonreuters.com | + Meet the "legal engineers." The Afternoon Docket The Afternoon Docket A weekly newsletter by Reuters and Westlaw By Sara Merken What's going on this week? The Washington State Bar Association | fyi | TODO | |
+| 19fb44e216888015 | ¡Aprovecha los Días Tottus! Hasta 20% dcto en pollo, pescado y más con CMR | contacto@pe.tottus.com | ¡Pide aquí! 100% online Tienes acumulados 222 (*)Términos y Condiciones: Promoción válida del 30 de julio al 5 de agosto del 2026 en Tottus dentro de la cobertura del app. | noise | TODO | |
+| 19fb449ef7a59b16 | Becoming an AI-native telco: Indosat Ooredoo Hutchison reimagines the telecom of the future | publishing@email.mckinsey.com | Explore AI-native transformation | fyi | TODO | |
+| 19fb410e45e3f253 | Tu compra está en camino | no-reply@mercadolibre.com.pe | Llega entre el 31 de julio y 4 de agosto Mercado Libre Mercado Libre DA20260727155727693 ¡En camino! Mica Para iPad 7ma Gen 10... Llega entre el 31 de julio y 4 de agosto | noise | TODO | |
+| 19fb3f9be1b8ece1 | Base metals traders on the move as battle for talent intensifies | newsletters@email.reuters.com | Senior base metals traders are being lured to new jobs as demand for their expertise rises amid supply-chain disruptions and soaring investment in metals-intensive data centres, sources with | fyi | TODO | |
