@@ -1,6 +1,6 @@
 # Eval #2: Reply Draft Quality (LLM-as-Judge)
 
-Average score: 13.5 / 16
+Average score: 13.67 / 16
 
 ---
 
@@ -41,5 +41,25 @@ Average score: 13.5 / 16
 - Length: 4 - Matches the short, casual weight of the original check-in.
 - Context: 3 - Directly answers the feedback ask, but the original email itself never named the specific event, so the reply can't reference concrete details.
 - Actionability: 4 - Gives one clear, concrete suggestion and closes the loop; send-ready as is.
+
+---
+
+## Completa tu Postulación al PEXT - cierre de inscripciones 01 de Setiembre (ThreadId: 1a04955950115eda)
+
+**From:** programadeextension@sbs.gob.pe
+**Incoming:** SBS reminds Derek to complete his PEXT application form with DNI/password login before the September 1 deadline.
+**Draft:**
+> Buenas tardes,
+>
+> Gracias por el recordatorio. Completaré el formulario de postulación al PEXT antes del cierre del 01 de setiembre.
+>
+> Saludos,
+> Derek
+
+**Scores (total: 14/16):**
+- Tone: 4 - Short, natural functional Spanish register, no filler or AI-isms, matches how Derek writes a quick confirmation.
+- Length: 4 - Brief reply appropriately matched to a short automated reminder.
+- Context: 3 - Correctly names the specific deadline (01 de setiembre) but doesn't reference the DNI/password login step from the original.
+- Actionability: 3 - States a clear commitment to complete the form, closing the loop, though it doesn't take the actual action (the form itself lives outside email).
 
 ---
