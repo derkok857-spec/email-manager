@@ -1,6 +1,25 @@
 # Eval #2: Reply Draft Quality (LLM-as-Judge)
 
-Average score: 13.67 / 16
+Average score: 13.75 / 16
+
+---
+
+## Notificación: 🚨 MAÑANA abre convocatoria CFA Student Scholarship (ThreadId: 1a0547de08430b72)
+
+**From:** calendar-notification@google.com
+**Incoming:** Self-set calendar reminder that the CFA Student Scholarship application cycle opens tomorrow, with a checklist to have documents ready, confirm slots with the UP contact, and apply as soon as the portal opens.
+**Draft:**
+> Hi Derek,
+>
+> Got it, CFA Student Scholarship opens tomorrow. Tonight I'll get the CV, transcript, and any UP letter ready, confirm slots with the Principal Contact, and log in first thing when the portal opens.
+>
+> Thanks for the heads up.
+
+**Scores (total: 15/16):**
+- Tone: 4 - Direct and casual, contractions used, no AI-isms or filler.
+- Length: 3 - Roughly matches the checklist-style weight of the original, though the source had a link and slightly more detail.
+- Context: 4 - Names the specific checklist items (CV, transcript, UP letter, Principal Contact) with no hallucination.
+- Actionability: 4 - Commits to concrete next steps and closes the loop; send-ready as is.
 
 ---
 
