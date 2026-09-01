@@ -1,6 +1,6 @@
 # Eval #2: Reply Draft Quality (LLM-as-Judge)
 
-Average score: 13.75 / 16
+Average score: 14 / 16
 
 ---
 
@@ -66,19 +66,19 @@ Average score: 13.75 / 16
 ## Completa tu Postulación al PEXT - cierre de inscripciones 01 de Setiembre (ThreadId: 1a04955950115eda)
 
 **From:** programadeextension@sbs.gob.pe
-**Incoming:** SBS reminds Derek to complete his PEXT application form with DNI/password login before the September 1 deadline.
+**Incoming:** SBS sent a follow-up reminder that the PEXT application form must be completed and submitted before the September 1 deadline, which is today.
 **Draft:**
-> Buenas tardes,
+> Hola,
 >
-> Gracias por el recordatorio. Completaré el formulario de postulación al PEXT antes del cierre del 01 de setiembre.
+> Gracias por el recordatorio. Voy a revisar y completar mi postulación al PEXT antes del cierre de hoy.
 >
 > Saludos,
 > Derek
 
 **Scores (total: 14/16):**
-- Tone: 4 - Short, natural functional Spanish register, no filler or AI-isms, matches how Derek writes a quick confirmation.
-- Length: 4 - Brief reply appropriately matched to a short automated reminder.
-- Context: 3 - Correctly names the specific deadline (01 de setiembre) but doesn't reference the DNI/password login step from the original.
-- Actionability: 3 - States a clear commitment to complete the form, closing the loop, though it doesn't take the actual action (the form itself lives outside email).
+- Tone: 4 - Reads like a real, brief confirmation note, matches the functional Peruvian-Spanish register of the original.
+- Length: 3 - Short reply is appropriate for a system reminder, though the incoming notice itself was long and procedural.
+- Context: 4 - Correctly references the PEXT application and today's deadline without hallucinating extra details.
+- Actionability: 3 - States clear intent to complete the application today, but doesn't confirm the outcome since submission status was unknown.
 
 ---
