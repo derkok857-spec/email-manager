@@ -1,6 +1,6 @@
 # Eval #2: Reply Draft Quality (LLM-as-Judge)
 
-Average score: 14 / 16
+Average score: 14.2 / 16
 
 ---
 
@@ -80,5 +80,24 @@ Average score: 14 / 16
 - Length: 3 - Short reply is appropriate for a system reminder, though the incoming notice itself was long and procedural.
 - Context: 4 - Correctly references the PEXT application and today's deadline without hallucinating extra details.
 - Actionability: 3 - States clear intent to complete the application today, but doesn't confirm the outcome since submission status was unknown.
+
+---
+
+## Reminder: Upstash Redis Database Inactivity First Notice (ThreadId: 1a0c66e4efee5b2e)
+
+**From:** support@upstash.com
+**Incoming:** Upstash warns that Derek's free-tier Redis database has been inactive for weeks and will eventually be archived unless he sends it traffic or upgrades to a paid plan, noting they'll send one more warning before archiving.
+**Draft:**
+> Hi there,
+>
+> Thanks for the heads up. I'll get some traffic going to the database this week so it stays active. Let me know if there's anything else I need to do before the next notice.
+>
+> Derek
+
+**Scores (total: 15/16):**
+- Tone: 4 - Reads like a real, brief reply with a contraction and no AI-isms.
+- Length: 4 - Matches the short, plain weight of an automated support notice without over-explaining.
+- Context: 3 - Correctly engages with the inactivity warning and the two stated options (traffic or upgrade), though it doesn't pick one decisively.
+- Actionability: 4 - States a concrete next step (add traffic this week) and closes the loop by asking about anything else needed.
 
 ---
