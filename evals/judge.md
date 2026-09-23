@@ -1,6 +1,6 @@
 # Eval #2: Reply Draft Quality (LLM-as-Judge)
 
-Average score: 14.2 / 16
+Average score: 14.0 / 16
 
 ---
 
@@ -101,3 +101,21 @@ Average score: 14.2 / 16
 - Actionability: 4 - States a concrete next step (add traffic this week) and closes the loop by asking about anything else needed.
 
 ---
+
+## [Action Advised] Manage your unused OAuth clients and protect your information (ThreadId: 1a0cb769c9e01df8)
+
+**From:** googledevelopers-noreply@google.com
+**Incoming:** Automated Google Cloud notice that project expenses-management-480100 has OAuth clients inactive for 5+ months that will be auto-deleted in 30 days unless used in a sign-in flow.
+**Draft:**
+> Hi there,
+>
+> Thanks for the heads up. I'll check the Cloud Console for expenses-management-480100 and decide whether to keep the inactive OAuth client active or let it get cleaned up. If I don't get to it in time, that's fine, I can restore it within 30 days after deletion if I need to.
+>
+> Best,
+> Derek
+
+**Scores (total: 13/16):**
+- Tone: 3 - Reads like a real, casual note with contractions, though addressing an automated no-reply notice as a person is inherently a bit unusual.
+- Length: 3 - Roughly matches the weight of the notice once you strip out the boilerplate links and legal text.
+- Context: 4 - Names the specific project, the 30-day deletion window, and the 30-day post-deletion restore option with no hallucination.
+- Actionability: 3 - States a concrete next step (check the Console) and closes the loop, but leaves the actual decision open rather than committing to one outcome.
