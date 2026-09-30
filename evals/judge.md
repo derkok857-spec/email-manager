@@ -1,6 +1,6 @@
 # Eval #2: Reply Draft Quality (LLM-as-Judge)
 
-Average score: 14.0 / 16
+Average score: 13.7 / 16
 
 ---
 
@@ -119,3 +119,23 @@ Average score: 14.0 / 16
 - Length: 3 - Roughly matches the weight of the notice once you strip out the boilerplate links and legal text.
 - Context: 4 - Names the specific project, the 30-day deletion window, and the 30-day post-deletion restore option with no hallucination.
 - Actionability: 3 - States a concrete next step (check the Console) and closes the loop, but leaves the actual decision open rather than committing to one outcome.
+
+## ¡Manaña nos vemos en nuestro Webinar! 💚 Programa de Prácticas de Verano Interbank (ThreadId: 1a0efd6a67a60255)
+
+**From:** mparra@intercorp.com.pe
+**Incoming:** Interbank reminds Derek that the Summer Internship Program webinar is tomorrow and includes the Teams link.
+**Draft:**
+> Hi M.,
+>
+> Thanks for the reminder. I'll be there tomorrow and I've saved the Teams link. Looking forward to learning more about the Summer Internship Program.
+>
+> Best,
+> Derek
+
+**Scores (total: 12/16):**
+- Tone: 3 - Natural and warm with contractions, but the "Hi M." greeting is awkward because only an initial and surname were available.
+- Length: 3 - Short reply to a short reminder, slightly more than needed.
+- Context: 3 - Names the webinar, program and Teams link without hallucinating, but the sender's actual name is unknown.
+- Actionability: 3 - Confirms attendance, closing the loop, though no question or next step is raised.
+
+---
