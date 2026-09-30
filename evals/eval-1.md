@@ -1075,3 +1075,24 @@ Accuracy: 18 / 25 = 72%
 | 1a0e937001bda5eb | Billion-dollar beauty: The odds of scaling a breakout brand | publishing@email.mckinsey.com | McKinsey newsletter on the odds of scaling a breakout beauty brand; general-interest content, not markets/AI/career. | noise | TODO | |
 | 1a0e929b6635edf5 | SALE EXTENDED: Back to school 50% off | learn@itr.mail.codecademy.com | Codecademy marketing email: 50% off Pro annual plans extended one more day. | noise | TODO | |
 | 1a0e8f833ae446de | The political chess behind the ECB's next leadership shake-up | newsletters@email.reuters.com | Reuters newsletter: euro zone will choose a new ECB president next year and replace up to two-thirds of the executive board. | fyi | TODO | |
+
+| 1a0f236260e68ef9 | You’re so close,Derek! Just one more step. | linkedin@em.linkedin.com | LinkedIn promo: your free month of Sales Navigator is still waiting. | noise | TODO | |
+| 1a0f2332f088bc61 | How I Build Consolidated P&L with Claude | newsletters-noreply@linkedin.com | LinkedIn newsletter: a finance consultant walks through building a consolidated P&L with Claude, opening with a client story. | fyi | TODO | |
+| 1a0f23101768784d | Anthropic’s rogue AI risk | thedailydocket@thomsonreuters.com | Reuters/Westlaw Daily Docket: Anthropic warns rogue AI agents could expose it to untested legal claims; other legal news. | fyi | TODO | |
+| 1a0f22e63155315e | Oktoberfest Sale for Momentum | maker@hello.design.com | Design.com marketing: 88% off limited time offer. | noise | TODO | |
+| 1a0f1de5c5ccb23c | No tienes ningún evento programado para hoy. | calendar-notification@google.com | Automated Google Calendar agenda: no events scheduled today. | noise | TODO | |
+| 1a0f1de300f85a71 | October doubts | morningbid@thomsonreuters.com | Reuters Morning Bid US: what matters in US and global markets today, by Mike Dolan. | fyi | TODO | |
+| 1a0f0dd73f080877 | New idea by Mihai_Iacob — check it out | noreply@tradingview.com | TradingView: followed analyst published a gold outlook idea, XAUUSD correction or genuine reversal. | fyi | TODO | |
+| 1a0f0d9a75c4a1a5 | AI’s power crunch, plus winning habits and US manufacturing resilience | publishing@email.mckinsey.com | McKinsey newsletter: AI power crunch, winning habits, US manufacturing resilience. | fyi | TODO | |
+| 1a0efef4edd955f3 | "XAUUSD SETUP MONDAY!" | noreply@redditmail.com | r/Forex post: XAUUSD trade setup with lower highs and lower lows on the 15M timeframe. | fyi | TODO | |
+| 1a0efd6a67a60255 | ¡Manaña nos vemos en nuestro Webinar! 💚 Programa de Prácticas de Verano Interbank | mparra@intercorp.com.pe | Interbank reminder: Summer Internship Program webinar is tomorrow, Teams link included. | urgent | TODO | |
+| 1a0ef893c55f474d | Tu pedido de Yopo Turbo - Dos de Mayo fue entregado | support@rappimail.com | Rappi order receipt: order delivered with changes, total S/.31.32. | noise | TODO | |
+| 1a0ef7819ff5189c | Resumen Semanal: Lo Más Relevante de la Semana | newsletters-noreply@linkedin.com | LinkedIn weekly digest (Spanish): S&P 500 up 1.21%, Nasdaq up 2.06%, markets summary. | fyi | TODO | |
+| 1a0ef532373238dc | Ends tomorrow. Anniversary Sale: $0.25 a week. | nytimes@e.newyorktimes.com | NYT subscription promo: anniversary sale, $0.25 a week. | noise | TODO | |
+| 1a0ef52dab592834 | 🏁 El regalo que él realmente quiere recibir mañana | novedades@pe.falabella.com | Falabella retail promo: Hot Wheels gift bouquet. | noise | TODO | |
+| 1a0ef316d0c5bc81 | Bitget Latest PoR Update: Reserve Ratio at 131% | notification@promo.bitget.com | Bitget 47th Proof of Reserves update, reserve ratio 131%. | fyi | TODO | |
+| 1a0ef18d02ba6e22 | Live in October: AI workflows and builder meetups | team@mail.airtable.com | Airtable monthly newsletter: October virtual sessions and builder meetups. | noise | TODO | |
+| 1a0eed0bee59fd7c | The future of healthy living: A $16.4 trillion opportunity | publishing@email.mckinsey.com | McKinsey newsletter on the $16.4 trillion healthy living opportunity. | fyi | TODO | |
+| 1a0ee7e5afc9a42f | The $2.3 trillion horizon: How AI is rewriting the semiconductor story | publishing@email.mckinsey.com | McKinsey newsletter on AI's impact on semiconductor value. | fyi | TODO | |
+| 1a0ee71ad40276a2 | ¡Renueva tu dormitorio y hogar con Tottus! 🥳 | contacto@pe.tottus.com | Tottus retail promo: furniture and home deals. | noise | TODO | |
+| 1a0ee60a1e2480da | Earn up to 12% APR on stablecoins, with new ETH and BTC PoolX promotion pools launching now | notification@promo.bitget.com | Bitget promo: up to 12% APR on stablecoins and new PoolX pools. | noise | TODO | |
