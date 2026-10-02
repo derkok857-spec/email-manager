@@ -1,6 +1,6 @@
 # Eval #1: Email Triage Classification
 
-Accuracy: 18 / 25 = 72%
+Accuracy: (pending labels)
 
 | ThreadId | Subject | Sender | IncomingEmail | AICategorization | HumanCategorization | Accuracy |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1095,3 +1095,23 @@ Accuracy: 18 / 25 = 72%
 | 1a0f3f6a411da151 | India’s new insurance track: The marathon becomes an AI-led decathlon | publishing@email.mckinsey.com | McKinsey newsletter on the next chapter of growth for Indian insurance driven by AI. | fyi | TODO | |
 | 1a0f3e78cbaec116 | 5 technology frontiers shaping what comes next | publishing@email.mckinsey.com | McKinsey newsletter on 5 technology trends shaping what comes next. | fyi | TODO | |
 | 1a0f3cf6bc9d394f | Derek, Leonardo Alexis Centeno Gutiérrez is waiting for your Zip puzzle answer ⏳ | messages-noreply@linkedin.com | LinkedIn puzzle-game social notification: a connection is waiting for Derek's Zip puzzle answer. | noise | TODO | |
+| 1a0fcb59899345fc | Your Bitcoin reward is waiting | no-reply@email.kraken.com | Kraken referral promo: invite friends, earn up to $200 in Bitcoin. | noise | TODO | |
+| 1a0fc7d3f8b4fd9d | Immigration detention policy faces SCOTUS test | thedailydocket@thomsonreuters.com | Reuters/Westlaw Daily Docket: Trump mandatory immigration detention policy faces SCOTUS test; a rule that sparked 73,000+ lawsuits. | fyi | TODO | |
+| 1a0fc7bd80a0dbfb | 24 hours left \| Oktoberfest Sale for Momentum | g.c@hello.design.com | Design.com marketing: Oktoberfest sale on logo, design tools and templates ends in 24 hours. | noise | TODO | |
+| 1a0fc658d7fdd197 | Why the Fed Is Unlikely to Hike in October | briefings@newsletter.mail.gs.com | Goldman Sachs Briefings: economists push back forecast for another Fed hike after cooler-than-expected data; how GS interns use AI. | fyi | TODO | |
+| 1a0fc361c87b3f53 | No tienes ningún evento programado para hoy. | calendar-notification@google.com | Automated Google Calendar daily agenda: no events scheduled today, Oct 2 2026. No content or action needed. | noise | TODO | |
+| 1a0fc32fc8b6d4b4 | Yield to worst | morningbid@thomsonreuters.com | Reuters Morning Bid Weekend: weekly market recap plus reading, watching and listening recommendations from the ROI team. | fyi | TODO | |
+| 1a0fc025e0b387dd | 1.9M USDT airdrop distributed — hold assets to join the next round 🎁 | notification@promo1.bitget.com | Bitget promo: first round of Alliance Program airdrop (1.9M USDT) distributed; hold assets to join next round. | noise | TODO | |
+| 1a0fbe01a31e0415 | Perpetuals 101: Understanding funding rates | info@mail.coinbase.com | Coinbase educational email on perpetual futures funding rates: small regular payments keeping perp prices in line with market. | fyi | TODO | |
+| 1a0fba6154e884b8 | Tech trends and Europe’s AI start-ups | publishing@email.mckinsey.com | McKinsey newsletter: emerging ideas for leaders on tech trends and Europe's AI start-ups. | fyi | TODO | |
+| 1a0fb8c2afa550a9 | New idea by Mihai_Iacob — check it out | noreply@tradingview.com | TradingView notification: Mihai_Iacob published Gold (XAUUSD) idea, bullish reversal ahead of NFP. | fyi | TODO | |
+| 1a0fb469cc14bbf5 | 👤 Someone at The Clorox Company you may know | messages-noreply@linkedin.com | LinkedIn suggestion of a connection at The Clorox Company; no direct ask. | noise | TODO | |
+| 1a0fad7a1bf55c51 | Inside a century-old airline’s digital reinvention | publishing@email.mckinsey.com | McKinsey weekend newsletter: a century-old airline's digital reinvention; general-interest content. | noise | TODO | |
+| 1a0fa34a53c95a88 | "Opus 5.5 v/s Astra 6" | noreply@redditmail.com | Automated Reddit digest from r/ClaudeAI comparing Opus 5.5 and Astra 6; forum chatter, no ask. | noise | TODO | |
+| 1a0f9a180bf58c6f | 💖 Benefit Brow Days: ¡Hasta 40% OFF! 💖 | novedades@pe.falabella.com | Falabella retail marketing: up to 40% off brow products. | noise | TODO | |
+| 1a0f989b2a8db20c | ¡Bienvenido a tu nueva CMR PREAPROBADA 🤩! ​ | contacto@pe.bancofalabella.com | Banco Falabella marketing: pre-approved CMR card, request it 100% digitally. | noise | TODO | |
+| 1a0f955c8cb5e4b2 | 🏠 Dale un nuevo aire a tu cocina con estos electrodomésticos | contacto@pe.tottus.com | Tottus retail promo: kitchen appliance deals plus loyalty points balance. | noise | TODO | |
+| 1a0f9336a93020cc | Powering through uncertainty: A talk with former US Energy Secretary Ernest Moniz | publishing@email.mckinsey.com | McKinsey newsletter: talk with former US Energy Secretary Ernest Moniz on the race for electrons and energy uncertainty. | fyi | TODO | |
+| 1a0f915c4eb09172 | 40% Off Football Fees All Month 🏈 | noreply@polymarket.com | Polymarket marketing: 40% off football market fees all October. | noise | TODO | |
+| 1a0f8d742f1df950 | New guardrails on lawyers' AI use in California | thedailydocket@thomsonreuters.com | Reuters Afternoon Docket: new California guardrails on lawyers' AI use, Paxton news, ABA investigation. | fyi | TODO | |
+| 1a0f8c011d2ee050 | Maintenance meets AI: A proven approach for asset-heavy industries | publishing@email.mckinsey.com | McKinsey newsletter on AI-driven maintenance for asset-heavy industries. | fyi | TODO | |
