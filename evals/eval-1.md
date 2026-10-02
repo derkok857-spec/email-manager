@@ -1,6 +1,6 @@
 # Eval #1: Email Triage Classification
 
-Accuracy: (pending labels)
+Accuracy: 18 / 25 = 72%
 
 | ThreadId | Subject | Sender | IncomingEmail | AICategorization | HumanCategorization | Accuracy |
 | --- | --- | --- | --- | --- | --- | --- |
