@@ -196,3 +196,23 @@ Accuracy: (pending labels)
 | 1a0e32b95370d0d5 | Don't miss our Anniversary Sale: $0.25 a week. | nytimes@e.newyorktimes.com | NYT subscription discount promo email, anniversary sale for readers outside the US. | noise | TODO | |
 | 1a0e3144cbd41ea3 | 🍨+🎂+🥩=😍 ¡Date un gustito este fin de semana y ahorra con Tottus!💚 | contacto@pe.tottus.com | Tottus supermarket promo: weekend deals on desserts, cakes, and meats, plus loyalty points balance. | noise | TODO | |
 | 1a0e2fffede10175 | Stay ready for the next opportunity. | marketing@mail.bybit.com | Bybit crypto exchange marketing email touting recent BTC/XAUT/NVDAX price moves to prompt trading. | noise | TODO | |
+| 1a106edefc9a4888 | The Fin: Explore New AI Courses, & Advanced Excel | newsletters-noreply@linkedin.com | LinkedIn newsletter issue on new structuring AI prompts and responsible AI use courses, plus advanced Excel. | fyi | TODO | |
+| 1a106c08b706d7ca | Building a Serial Acquirer Portfolio | qualitycompounding@substack.com | Quality Compounding Substack newsletter, Part I on building a serial acquirer portfolio. | fyi | TODO | |
+| 1a1066f614cd1614 | New idea by Mihai_Iacob — check it out | noreply@tradingview.com | TradingView notification: Mihai_Iacob published a Gold (XAUUSD) idea on price failing before resistance. | fyi | TODO | |
+| 1a1066098c257155 | No tienes ningún evento programado para hoy. | calendar-notification@google.com | Automated Google Calendar notice: no events scheduled today, Oct 4 2026. No content or action needed. | noise | TODO | |
+| 1a10491ad4be4a4b | "Confirmed: Opus 5.5 has been nerded" | noreply@redditmail.com | Automated Reddit digest of r/ClaudeAI posts; forum chatter, no direct ask of Derek. | noise | TODO | |
+| 1a1047a15e2d76ce | Ruta a la que le hiciste seguimiento: vuelos de Lima a Cajamarca desde PEN 404 | noreply-travel@google.com | Google Flights price alert for tracked Lima-Cajamarca route, 1 week trips in November. | noise | TODO | |
+| 1a10469c7046d5e2 | You have 1 new invitation | notifications-noreply@linkedin.com | LinkedIn notification: you have 1 new connection invitation; generic social notification. | noise | TODO | |
+| 1a10449b9322d100 | 👤 You may know Sebastián Gálvez López | messages-noreply@linkedin.com | LinkedIn digest suggesting a new connection; no direct ask. | noise | TODO | |
+| 1a103e8686c87250 | Derek, has ahorrado S/196 en Pro! | rappi@hello.rappi.com.pe | Rappi Pro monthly savings recap: S/39 shipping, S/8 service fee, S/149 discounts; marketing email. | noise | TODO | |
+| 1a103afc4188d7fb | Steam Autumn Sale on now, with recommended deals just for you. | noreply@steampowered.com | Steam Autumn Sale marketing email with recommended game deals through Oct 8. | noise | TODO | |
+| 1a10341e35da8275 | Chart of the Week | publishing@email.mckinsey.com | McKinsey Chart of the Week newsletter: navigating energy's next shock. | fyi | TODO | |
+| 1a102bab5c3c01d6 | Renueva tu estilo👗 | novedades@scotiabank.com.pe | Scotiabank marketing email: buy in up to 6 interest-free installments with credit card. | noise | TODO | |
+| 1a102b9585aa5f55 | San Fernando - La buena Familia y 2 de tus otras empresas favoritas están buscando personal | no_reply@bumeran.com | Bumeran job alert: San Fernando hiring a warehouse operations assistant in Lima, plus two other companies. | fyi | TODO | |
+| 1a102685e636403b | ¡Fiesta de Precios Tottus!🎉Llena tu mesa con el mejor sabor y ahorra a lo grande. 🤩😉 ¡Ven hoy! 🛒 | contacto@pe.tottus.com | Tottus supermarket promo plus loyalty points balance (222). | noise | TODO | |
+| 1a102609338ae21b | 🔥 Tu mejor versión empieza hoy: hasta 50% OFF | novedades@pe.falabella.com | Falabella retail marketing email: up to 50% off treadmills, bikes and more. | noise | TODO | |
+| 1a10256ee93a73aa | One step left | no-reply@kalshi.com | Kalshi onboarding nudge: fund your account to start trading; marketing email. | noise | TODO | |
+| 1a10225113ea8636 | NOW: ServiceNow Launches Flow AI Service Desk for Slack and Teams Rapid Deployment | no-reply@p.simplywall.st | Simply Wall St watchlist update: ServiceNow (NOW, $134.38) launches Flow AI Service Desk for Slack and Teams. | fyi | TODO | |
+| 1a10215b7c917449 | Elevate the season and save: $0.25 a week. | nytimes@e.newyorktimes.com | NYT subscription discount promo: $10/year for all access. | noise | TODO | |
+| 1a101f5e0b755e05 | Let your money work for you. | marketing@mail.bybit.com | Bybit marketing email nudging Derek to make his first trade. | noise | TODO | |
+| 1a101e4a2afd8337 | Stay ready for the next opportunity. | marketing@mail.bybit.com | Bybit crypto exchange marketing email touting recent BTC/XAUT/NVDAX price moves to prompt trading. | noise | TODO | |
