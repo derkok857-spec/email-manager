@@ -1,6 +1,46 @@
 # Eval #2: Reply Draft Quality (LLM-as-Judge)
 
-Average score: 14.0 / 16
+Average score: 13.6 / 16
+
+---
+
+## Alerta de seguridad (ThreadId: 1a108df052c06e5e)
+
+**From:** no-reply@accounts.google.com
+**Incoming:** Google security alerts say Claude for Google Drive was granted access, a new Windows sign-in occurred, and the recovery phone was changed, asking Derek to verify it was him.
+**Draft:**
+> Hi Google team,
+>
+> I'm reviewing the new Windows sign-in and the recovery phone change on derkok857@gmail.com from this morning. If either wasn't me, I'll lock the account down today. Please confirm there's nothing else I need to check.
+>
+> Thanks,
+> Derek
+
+**Scores (total: 12/16):**
+- Tone: 3 - Plain and human, no em dashes, though it reads slightly formal.
+- Length: 3 - Short, fits a short automated alert.
+- Context: 3 - Names the sign-in and phone change but skips the Claude Drive access item.
+- Actionability: 3 - States the next step, but the recipient is a no-reply address so nothing can actually move forward.
+
+---
+
+## Renueva tu membresía para seguir usando la app de Gemini en Pro (ThreadId: 1a10ad1f136d4213)
+
+**From:** googleone-noreply@google.com
+**Incoming:** Google One says the plan ends in 3 days and storage will run out unless Derek renews to keep Gemini Pro.
+**Draft:**
+> Hi Google One team,
+>
+> My plan ends in 3 days and I want to decide on renewal before then. Please confirm the renewal price and what happens to my storage if I let it lapse.
+>
+> Thanks,
+> Derek
+
+**Scores (total: 13/16):**
+- Tone: 3 - Direct and natural, no AI tells.
+- Length: 4 - Matches the brief incoming notice.
+- Context: 3 - Engages with the 3 day deadline and storage, but the email body was mostly empty so specifics were limited.
+- Actionability: 3 - Asks concrete questions, but a no-reply address will not answer them.
 
 ---
 
